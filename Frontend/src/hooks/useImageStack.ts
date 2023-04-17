@@ -1,24 +1,24 @@
 import React from "react";
 import { useState } from "react";
 
-import AC from "../assets/AC.png";
-import tiler from "../assets/alicatadorazulejos.png";
+import AC from "../assets/jobs/ac.png";
+import tiler from "../assets/jobs/alicatador-azulejos.png";
 import heater from "../assets/jobs/calefaccion.png";
-import carpenter from "../assets/jobs/carpintero metalico.png";
+import carpenter from "../assets/jobs/carpintero-metalico.png";
 import glaziers from "../assets/jobs/cristaleros.png";
-import elderlyCare from "../assets/jobs/elderly care.png";
+import elderlyCare from "../assets/jobs/elderly-care.png";
 import electrician from "../assets/jobs/electricista.png";
-import cementPlasterer from "../assets/jobs/enfoscador - cemento.png";
+import cementPlasterer from "../assets/jobs/enfoscador-cemento.png";
 import ladder from "../assets/jobs/escaleras.png";
-import coversRoof from "../assets/jobs/especialiste en cubiertas - tejado.png";
+import coversRoof from "../assets/jobs/especialisteencubiertas-tejado.png";
 import plumber from "../assets/jobs/fontanero.png";
-import homeRepair from "../assets/jobs/home repair 1.png";
+import homeRepair from "../assets/jobs/Home-repair-1.png";
 import nanny from "../assets/jobs/nanny.png";
-import wallpaper from "../assets/jobs/papel pared.png";
+import wallpaper from "../assets/jobs/papel-pared.png";
 import painter from "../assets/jobs/pintor.png";
-import wallCovering from "../assets/jobs/revestimientos pared.png";
+import wallCovering from "../assets/jobs/revestimientos-pared.png";
 import floors from "../assets/jobs/suelo.png";
-import washerTechnician from "../assets/jobs/tecnico electrodomesticos-lavadora.png";
+import washerTechnician from "../assets/jobs/tecnico-electrodomesticos-lavadora.png";
 import {
   MdCarpenter,
   MdConstruction,

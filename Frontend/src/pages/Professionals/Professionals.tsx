@@ -26,7 +26,7 @@ export default function Professionals() {
       effectRan.current = true;
     }
   }, [dispatch, id]);
-console.log(select)
+  console.log(select);
   return (
     <>
       <Link to={"/"}>
